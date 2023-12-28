@@ -5,7 +5,7 @@ Game Programmer
 ---------------
 
 *   🌍  I'm based in Stockholm, Sweden
-*   🖥️  See my portfolio at [Soon...](http://oskarwistedt.dev)
+*   🖥️  See my portfolio at [oskarwistedt.dev](http://oskarwistedt.dev)
 *   ✉️  You can contact me at [oskar.wistedt@gmail.com](mailto:oskar.wistedt@gmail.com)
 *   🧠  I'm learning Rust, Bevy, Unreal Engine, C++
 *   🤝  I'm open to collaborating on Games, Games, Games!
